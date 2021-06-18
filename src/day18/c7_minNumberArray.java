@@ -31,8 +31,7 @@ public class c7_minNumberArray {
         return minumum;
 
     }
-
-
+//bu bir denmedir
     //write a return method that will return minnumber from double array
     //applly overloading,, dont use sort method
 

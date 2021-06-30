@@ -22,6 +22,7 @@ public class c4_arithmeticOperators {
         //multiple numbers
         System.out.println(i1*i2); //1*2=2
         System.out.println(d1*d2); //1.5*2.5=3.75
+        System.out.println("---------------------------------");
 
         //division
         System.out.println(i2/i1);

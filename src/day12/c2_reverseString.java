@@ -25,7 +25,7 @@ public class c2_reverseString {
             //from last index to first index
             lastIndex--;
 
-        }while (lastIndex >=0 );//conditon which is ending point i want to finish at first letter whihc index number 0
+        }while (lastIndex >=0 );//conditon which is ending point i want to finish at first letter which index number 0
 
         System.out.println(reverse);
 

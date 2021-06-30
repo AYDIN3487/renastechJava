@@ -3,14 +3,14 @@ public class c4_minMaxNumbers {
     public static void main (String [] args){
         // x y z
         // min number
-        // create a logic that will going to print minumum number between 3 numbers
+        // create a logic that will going to print minimum number between 3 numbers
         int x= 245;
         int y = -500;
         int z= 0;
         boolean xMin= x<y && x<z ;  // false && false == false
-        //x has to smaller then y and smaller then z
+        //x has to smaller than y and smaller then z
         boolean yMin= y<x && y<z ; // true && true = true
-        //if y is minimum number then y has to be smaller then x and z
+        //if y is minimum number then y has to be smaller than x and z
         boolean zMin= z<x && z<y ; // true && false == false
         if (xMin){//false
             //java wont check inside this if

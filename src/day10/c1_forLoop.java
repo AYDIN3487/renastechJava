@@ -15,7 +15,7 @@ public class c1_forLoop {
             System.out.println("Java");
         }
         //starting point
-        for (int k=-1 ; k < 5 ; k+=3 ){// -1 2 5
+        for (int k=-1 ; k <=5 ; k+=3 ){// -1 2 5
             //2 times
             System.out.println("renastech");
         }

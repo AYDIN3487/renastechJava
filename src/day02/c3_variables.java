@@ -16,7 +16,7 @@ public class c3_variables {
         short s1=128;
         short s2=1000;
 //        short s3=40000; this is out of range
-        short s4=25; // you can assign byte numbers to short because short is bigger then byte
+        short s4=25; // you can assign byte numbers to short because short is bigger than byte
         System.out.println("*********************short");
         System.out.println(s1);
         System.out.println(s2);

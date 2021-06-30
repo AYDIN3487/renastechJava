@@ -30,7 +30,8 @@ public class c1_countLetter {
                 countLetterA++;
             }
 
-            if (eachLetter.equalsIgnoreCase("f")){
+            if (eachLetter.equalsIgnoreCase("f" +
+                    "")){
                 countLetterF++;
             }
         }

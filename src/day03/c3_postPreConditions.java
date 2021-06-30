@@ -2,13 +2,13 @@ package day03;
 public class c3_postPreConditions {
     public static void main (String [] args) {
         // pre : this will change the value of number immediately
-        // post : first wont gonna change anyhting on the variable , at the end it will change it
+        // post : first wont gonna change anything on the variable , at the end it will change it
         int x =10 ;
         System.out.println(x); //10
         System.out.println(++x); // pre condition will increase the number 11
         System.out.println(x); // 11
         System.out.println(++x); //12
-        System.out.println(+x); // this wont change number value it is effecting either postitive or negative
+        System.out.println(+x); // this wont change number value it is effecting either positive or negative
         int y = 20 ;
         System.out.println(y);//20
         System.out.println(--y); // pre condition will decrease the number 19
